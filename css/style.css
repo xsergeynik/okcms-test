@@ -27,7 +27,9 @@
 .products-view__buttons {}
 
 
-.products-view__btn {}
+.products-view__btn {
+	font-size: 24px;
+}
 
 
 .products-view__btn--cart {}
